@@ -1,0 +1,33 @@
+{
+  "data": {
+    "time": "2024-07-12T14:16:00Z",
+    "values": {
+      "cloudBase": 0.16,
+      "cloudCeiling": null,
+      "cloudCover": 15,
+      "dewPoint": 20.63,
+      "freezingRainIntensity": 0,
+      "humidity": 93,
+      "precipitationProbability": 0,
+      "pressureSurfaceLevel": 998.48,
+      "rainIntensity": 0,
+      "sleetIntensity": 0,
+      "snowIntensity": 0,
+      "temperature": 21.81,
+      "temperatureApparent": 21.81,
+      "uvHealthConcern": 1,
+      "uvIndex": 2,
+      "visibility": 13.62,
+      "weatherCode": 1100,
+      "windDirection": 24.19,
+      "windGust": 2.31,
+      "windSpeed": 1.63
+    }
+  },
+  "location": {
+    "lat": 41.87556076049805,
+    "lon": -87.62442016601562,
+    "name": "Chicago, Cook County, Illinois, United States",
+    "type": "administrative"
+  }
+}
