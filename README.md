@@ -25,6 +25,12 @@ MOCKAROO_API_KEY=YOUR_MOCKAROO_API_KEY
 USE_MOCK=0 # or 1 to use Mockaroo. 
 ```
 
+## Run It
+
+``` sh
+python ./weather-toast.py
+```
+
 A nice, easy to use, and *FREE* weather API was provided by ***[Tomorrow.io](https://tomorrow.io)***.
 
 [<img src="https://github.com/Tomorrow-IO-API/tomorrow-weather-codes/blob/master/powered-by-tomorrow/Powered_by_Climacell-Halo.png?raw=true" width="250" />](https://tomorrow.io/)
