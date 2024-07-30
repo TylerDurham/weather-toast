@@ -46,8 +46,8 @@ def notify(title, message, icon, timeout=3000):
 def get_icon(code, time):
 
     isNight = 0 if (time.hour % 12 == 0) else 1
-        
-    pattern = f'{os.path.join(os.getcwd(), 'images')}/{code}{isNight}_*@2x.png'
+    print(isNight)        
+    pattern = f'{os.path.join(os.getcwd(), "images")}/{code}{isNight}_*@2x.png'
     print(pattern)
     files = glob(pattern)
     return (files[0])
